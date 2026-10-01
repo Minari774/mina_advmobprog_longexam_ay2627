@@ -1,4 +1,4 @@
-**Lawrenz Dave Z. Flores, MIT**
+**Luigi Caezar F. Mina**
 
 ## **INF233**
 
